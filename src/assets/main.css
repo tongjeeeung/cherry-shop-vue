@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-color: #800000;
+  --bg-color: #000000;
+  --text-color: #faebd7;
+  --muted-color: #1c1c1c;
+}
+
+.light {
+  --accent-color: #ff8200;
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --muted-color: #c6c6c6;
+}
+
+body {
+  font-family: Noto Sans;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+.card:hover {
+  background-size: 100%;
+}
+
+.card:hover .overlay {
+  background-color: rgb(0, 0, 0, 0.4);
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Christmas';
+    src: url(./fonts/Christmas.ttf) format('truetype');
+    font-weight: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Raleway';
+    src:
+      url(./fonts/Raleway-Bold.woff2) format('woff2'),
+      url(./fonts/Raleway-Bold.woff) format('woff');
+    font-weight: bold;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/NotoSans-Thin.ttf) format(truetype);
+    font-weight: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Noto Sans';
+    src: url(./fonts/NotoSans-SemiBold.ttf) format(truetype);
+    font-weight: bold;
+    font-display: swap;
+  }
+}

@@ -1,0 +1,553 @@
+[
+  {
+      "id": "7b69265d-5188-4620-9806-deea848f74f0",
+      "name": "Board Toy Machine 2022",
+      "price": "6320",
+      "imgFirst": "/catalog/boards/skate_00_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_00_02.jpeg",
+      "year": 2022,
+      "information": "The classic 7-ply Canadian maple deck is suitable for any level of riding and location, be it the street or the skate park.",
+      "size": 8.38,
+      "concave": "Medium",
+      "sale": ""
+  },
+  {
+      "id": "a2fad9b7-3c4c-4308-8f3c-719de85300ab",
+      "name": "Board Fucking Awesome 2023",
+      "price": "6000",
+      "imgFirst": "/catalog/boards/skate_01_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_01_02.jpeg",
+      "year": 2023,
+      "information": "Gino Iannucci Pro Modele",
+      "size": 8.25,
+      "concave": "Medium",
+      "sale": ""
+  },
+  {
+      "id": "46a8cf27-9da6-4f1e-af72-e8924c5386ce",
+      "name": "Board Foundation 2022",
+      "price": "5700",
+      "imgFirst": "/catalog/boards/skate_02_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_02_02.jpeg",
+      "year": 2022,
+      "information": "The classics from Foundation Skateboards never get old. The brand was founded in 1989 and is still on top! The classic 7-ply Canadian maple deck is suitable for any level of skating and any place, be it the street or a skate park.",
+      "size": 8.75,
+      "concave": "Medium",
+      "sale": ""
+  },
+  {
+      "id": "3988eb92-ceae-44a4-8174-99255c9b3684",
+      "name": "Board ENJOI KITTEN RIPPER HYB PINK",
+      "price": "5820",
+      "imgFirst": "/catalog/boards/skate_03_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_03_02.jpeg",
+      "year": 2023,
+      "information": "Resin Hybrid Construction - new 7-layer hybrid decks with two types of wood. The layers are glued together with epoxy glue and some of the veneer layers with Epoxy Resin, which ensures minimal weight of the skateboard. The key advantage of this technology is that the individually pressed decks are distinguished by their durability!",
+      "size": 7.75,
+      "concave": "Full",
+      "sale": ""
+  },
+  {
+      "id": "953507b6-2efe-4bf2-909f-83863e51d132",
+      "name": "Board ZERO THOMAS - SAVE MY SOUL",
+      "price": "7990",
+      "imgFirst": "/catalog/boards/skate_04_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_04_02.jpeg",
+      "year": 2022,
+      "information": "Pro Model: Jamie Thomas 100% Canadian Maple",
+      "size": 8.25,
+      "concave": "Medium",
+      "sale": "15"
+  },
+  {
+      "id": "e36d6985-007d-41be-b894-3be7d91cd53f",
+      "name": "Board FLIP TEAM HKD RED",
+      "price": "6250",
+      "imgFirst": "/catalog/boards/skate_05_01.jpeg",
+      "imgSecond": "/catalog/boards/skate_05_02.jpeg",
+      "year": 2022,
+      "information": "Flip Skateboards is a well-known name in the skateboarding world. Since 1991, the brand has been producing high-quality skateboards, decks, wheels, clothing, and various skateboarding accessories.",
+      "size": 8.13,
+      "concave": "Medium",
+      "sale": "20"
+  }
+]
+
+[
+  {
+      "id": "7b7d592b-a4ff-4556-84dd-c28a258440d0",
+      "name": "BC Flat Black Standard",
+      "price": "3300",
+      "imgFirst": "/catalog/trucks/track_00_01.jpeg",
+      "imgSecond": "/catalog/trucks/track_00_02.jpeg",
+      "year": 2022,
+      "information": "Independent classic! The Independent Stage 11 is a durable and reliable suspension system for any riding style and level! Weight: 139 - 376 g/piece, 144 - 387 g/piece, 149 - 394 g/piece. Height: 55 mm Aluminum A356 T6 Hanger and Base SCM435 Chromoly Axle Steel Kingpin 8",
+      "size": 8.38,
+      "sale": ""
+  },
+  {
+      "id": "6e7e8303-92dd-4f42-ab73-e04780a34247",
+      "name": "INDEPENDENT Stage 11 BTG Speed Burgundy Silver Standard",
+      "price": "3400",
+      "imgFirst": "/catalog/trucks/track_01_01.jpeg",
+      "imgSecond": "/catalog/trucks/track_01_02.jpeg",
+      "year": 2023,
+      "information": "Independent classic! The Independent Stage 11 is a durable and reliable suspension system for any riding style and level! Weight: 139 - 376 g/piece, 144 - 387 g/piece, 149 - 394 g/piece. Height: 55 mm Aluminum A356 T6 Hanger and Base SCM435 Chromoly Axle Steel Kingpin 8",
+      "size": 8.25,
+      "sale": ""
+  },
+  {
+      "id": "04a2c3d4-b276-4af8-b911-08833e26ae62",
+      "name": "THUNDER TRUCKS TRK LT DISORDER",
+      "price": "3360",
+      "imgFirst": "/catalog/trucks/track_02_01.jpeg",
+      "imgSecond": "/catalog/trucks/track_02_02.jpeg",
+      "year": 2022,
+      "information": "Thunder offers the lightweight, durable and agile skateboarding systems the brand is known for. The base, hanger and kingpin are made from lightweight and durable aluminum.",
+      "size": 8.75,
+      "sale": ""
+  },
+  {
+      "id": "1a3b6205-02d4-4be6-89c2-03d32acdce45",
+      "name": "ACE AF1 Purple Satin",
+      "price": "3510",
+      "imgFirst": "/catalog/trucks/track_03_01.jpeg",
+      "imgSecond": "/catalog/trucks/track_03_02.jpeg",
+      "year": 2023,
+      "information": "New model of skateboard suspension ACE AF1. These are the suspensions, thanks to the geometry of which, you will be able to lay the most fierce angles in the radii and be in full pockets in the street. If you haven't ridden Ace yet - it's time to try it!",
+      "size": 8.0,
+      "sale": ""
+  },
+]
+
+[
+  {
+      "id": "3e42af57-de40-4918-a865-6a50be7857e8",
+      "name": "BONES BERGER THE HUNTER",
+      "price": "5250",
+      "imgFirst": "/catalog/wheels/wheels_00_01.jpeg",
+      "imgSecond": "/catalog/wheels/wheels_00_02.jpeg",
+      "year": 2023,
+      "information": "Legendary BONES Street Tech Formula wheels that roll fast, grip when you need them, and glide when you want them to, with no flat spots. STF gives you more control to ride confidently on the street! BONES STF wheels outperform all other wheels, they last several times longer than regular wheels, making STF wheels the best at a lower cost.",
+      "rigidity": "103A",
+      "sale": ""
+  },
+  {
+      "id": "47477fc1-5a89-4a5a-948e-18982273f60b",
+      "name": "SANTA CRUZ Slime Balls OG Slime Purple",
+      "price": "5100",
+      "imgFirst": "/catalog/wheels/wheels_01_01.jpeg",
+      "imgSecond": "/catalog/wheels/wheels_01_02.jpeg",
+      "year": 2023,
+      "information": "Slime Balls Wheels are the creation of Santa Cruz Skateboards. Founded during the heyday of skateboarding in the 80's, Slime Balls offers skaters the chance to stand out from the crowd with the most colorful wheel graphics! These tires for your cruiser are ready to conquer any obstacle! High performance soft 78a urethane for increased flotation.",
+      "rigidity": "78A",
+      "sale": "5"
+  },
+  {
+      "id": "3a7d1fea-57be-4ce5-b4c1-5d9dd2f19aab",
+      "name": "SPITFIRE F4 CONICAL",
+      "price": "4850",
+      "imgFirst": "/catalog/wheels/wheels_02_01.jpeg",
+      "imgSecond": "/catalog/wheels/wheels_02_02.jpeg",
+      "year": 2022,
+      "information": "Spitfire are some of the most famous skate wheels in the world! Spitfire have released a new and improved formula of wheels called the Formula 4. The Formula Fours are very popular and we have had great feedback from everyone who has ridden them! The 99D wheels are on the softer side. They won’t be as fast in the skate park as the Red 101D wheels, but they will ride smoother on the street. They are still a little softer than the Bones STF wheel (103 durometer). These are the more popular of the two Formula 4 wheels. They are hard and fast, don’t flat spot, and still have a decent amount of bounce so they don’t feel plasticky. Another thing to note is that the Spitfire Formula 4 wheels are a cream color rather than the bright white that most wheels are, which is a signature Formula 4 color.",
+      "rigidity": "99D",
+      "sale": ""
+  },
+  {
+      "id": "58f563f7-443d-4ce9-af6f-64da84450deb",
+      "name": "SPITFIRE WHEELS BIGHEAD",
+      "price": "4350",
+      "imgFirst": "/catalog/wheels/wheels_03_01.jpeg",
+      "imgSecond": "/catalog/wheels/wheels_03_02.jpeg",
+      "year": 2023,
+      "information": "Spitfire - one of the most famous skate wheels in the world! Classic Spitfire - these are the classic wheels that everyone knows and loves. Classic has a hardness of 99, which makes it even harder and is perfect for skate parks and street skating.",
+      "rigidity": "99D",
+      "sale": ""
+  },
+]
+
+
+[
+  {
+      "id": "c09d6bc3-893f-4cf2-9711-5f375d9d3763",
+      "name": "INDEPENDENT Bearings GP-B",
+      "price": "1860",
+      "imgFirst": "/catalog/bearings/bearings_00_01.jpeg",
+      "imgSecond": "/catalog/bearings/bearings_00_02.jpeg",
+      "year": 2023,
+      "information": "High-quality, fast and durable bearings from Independent. These bearings use the most advanced technologies from Independent! Set: 8 bearings, 4 spacers and 8 speedrings (washers) Independent bearings do not have ABEC classification, but this product can be classified as ABEC-7 in terms of manufacturing accuracy New Shell® High-Speed ​​Skating Grease Reinforced separator (ball retainer) Removable dust cover",
+      "sale": ""
+  },
+  {
+      "id": "8e94bcb3-269a-4d13-aa9c-ac4a146f1548",
+      "name": "BONES REDS SUPER 8",
+      "price": "3150",
+      "imgFirst": "/catalog/bearings/bearings_01_01.jpeg",
+      "imgSecond": "/catalog/bearings/bearings_01_02.jpeg",
+      "year": 2023,
+      "information": "BONES REDS SUPER bearings have been designed from the ground up to be the best bearings on the market in their price range. Super REDS are not just REDS bearings with an improved finish (polished surface). Super REDS are the highest quality bearings, using high-quality steel rings, improved balls and a superior surface finish. The result is bearings that are as fast as REDS, but quieter, smoother and hold speed much longer. Super REDS use a black dust cover and laser engraving to easily distinguish them from classic REDS. Set of 8 skate bearings Long-lasting and reliable Removable rubber dust covers for easy cleaning Pre-lubricated with a special grease for high-speed skating",
+      "sale": ""
+  },
+  {
+      "id": "057bfba7-935f-4677-b9c4-e11eb741c243",
+      "name": "BONES CERAMIC SUPER REDS",
+      "price": "8650",
+      "imgFirst": "/catalog/bearings/bearings_02_01.jpeg",
+      "imgSecond": "/catalog/bearings/bearings_02_02.jpeg",
+      "year": 2023,
+      "information": "Bones Ceramic Super Reds bearings with ceramic balls made from the purest silicon nitride. They are lighter and provide more powerful acceleration because the balls weigh much less. They create less friction and therefore are much faster than Super REDS. If dirt gets into these bearings, the ceramic balls will help to re-polish the surface, providing self-healing, because ceramic balls are much stronger than steel. And, finally, ceramic balls do not rust, which extends their life! Set of 8 skateboard bearings Durable and reliable construction Removable dust covers for easier cleaning Grade 5 ceramic High-speed nylon retainer Pre-lubricated with special Speed ​​Cream",
+      "sale": ""
+  },
+  {
+      "id": "ffbb0604-5cc3-4a4e-a1b9-983bfc0e8108",
+      "name": "BRONSON Raw Speed Co",
+      "price": "4110",
+      "imgFirst": "/catalog/bearings/bearings_03_01.jpeg",
+      "imgSecond": "/catalog/bearings/bearings_03_02.jpeg",
+      "year": 2022,
+      "information": "BRONSON SPEED CO - the next generation of bearings - these are very fast, strong, long-spinning bearings for skateboarding!",
+      "sale": ""
+  },
+]
+
+[
+  {
+      "id": "851a5427-c61e-4cd1-9e50-ccac3f6c9c47",
+      "name": "TOY MACHINE GRIP STICKER SINGLE PACK",
+      "price": "1100",
+      "imgFirst": "/catalog/skins/skin_00_01.jpeg",
+      "imgSecond": "/catalog/skins/skin_00_02.jpeg",
+      "year": 2023,
+      "information": "Set of 6 pieces of sandpaper. Glue any way you like to your deck. More self-expression! Self-adhesive sandpaper",
+      "sale": ""
+  },
+  {
+      "id": "352a6225-ca05-406d-a542-4a246568bb5c",
+      "name": "WELCOME BLACK LODGE GRIPTAPE BLACK",
+      "price": "1340",
+      "imgFirst": "/catalog/skins/skin_01_01.jpeg",
+      "imgSecond": "/catalog/skins/skin_01_02.jpeg",
+      "year": 2023,
+      "information": "Skateboard sandpaper. Size: 9 x 33",
+      "sale": ""
+  },
+  {
+      "id": "0c7f50eb-5f39-4166-bcc2-1859ef347000",
+      "name": "ENJOI THE ROCK",
+      "price": "1280",
+      "imgFirst": "/catalog/skins/skin_02_01.jpeg",
+      "imgSecond": "/catalog/skins/skin_02_02.jpeg",
+      "year": 2023,
+      "information": "Size: 9 x 33",
+      "sale": ""
+  },
+]
+
+[
+  {
+      "id": "bacb1b9f-687a-4d78-b2a3-f027f712618c",
+      "name": "MINI-LOGO AXLE NUT",
+      "price": "60",
+      "imgFirst": "/catalog/screws/screws_00_01.jpeg",
+      "imgSecond": "/catalog/screws/screws_00_02.jpeg",
+      "year": 2024,
+      "information": "Nut for suspension axle Price is for 1 piece.",
+      "sale": ""
+  },
+  {
+      "id": "bb82f224-4db6-4fed-9de8-0564f402310a",
+      "name": "INDEPENDENT Allen Hardware",
+      "price": "200",
+      "imgFirst": "/catalog/screws/screws_01_01.jpeg",
+      "imgSecond": "/catalog/screws/screws_01_02.jpeg",
+      "year": 2024,
+      "information": "Set of screws for hangers. Meet the highest quality standards. Hexagonal screws with self-locking nuts with a nylon ring. Hexagon included Material: 100% steel",
+      "sale": ""
+  },
+  {
+      "id": "86c17a12-4d4b-44c5-a0a6-d6e707df5ff6",
+      "name": "BONES HARDWARE",
+      "price": "350",
+      "imgFirst": "/catalog/screws/screws_02_01.jpeg",
+      "imgSecond": "/catalog/screws/screws_02_02.jpeg",
+      "year": 2024,
+      "information": "Screws for hangers without using washers. Included: 8 pcs. Size: 7/8",
+      "sale": ""
+  },
+]
+
+[{
+  "boards": [
+    {
+        "id": "7b69265d-5188-4620-9806-deea848f74f0",
+        "name": "Board Toy Machine 2022",
+        "price": "6320",
+        "imgFirst": "/catalog/boards/skate_00_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_00_02.jpeg",
+        "year": 2022,
+        "information": "The classic 7-ply Canadian maple deck is suitable for any level of riding and location, be it the street or the skate park.",
+        "size": 8.38,
+        "concave": "Medium",
+        "sale": ""
+    },
+    {
+        "id": "a2fad9b7-3c4c-4308-8f3c-719de85300ab",
+        "name": "Board Fucking Awesome 2023",
+        "price": "6000",
+        "imgFirst": "/catalog/boards/skate_01_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_01_02.jpeg",
+        "year": 2023,
+        "information": "Gino Iannucci Pro Modele",
+        "size": 8.25,
+        "concave": "Medium",
+        "sale": ""
+    },
+    {
+        "id": "46a8cf27-9da6-4f1e-af72-e8924c5386ce",
+        "name": "Board Foundation 2022",
+        "price": "5700",
+        "imgFirst": "/catalog/boards/skate_02_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_02_02.jpeg",
+        "year": 2022,
+        "information": "The classics from Foundation Skateboards never get old. The brand was founded in 1989 and is still on top! The classic 7-ply Canadian maple deck is suitable for any level of skating and any place, be it the street or a skate park.",
+        "size": 8.75,
+        "concave": "Medium",
+        "sale": ""
+    },
+    {
+        "id": "3988eb92-ceae-44a4-8174-99255c9b3684",
+        "name": "Board ENJOI KITTEN RIPPER HYB PINK",
+        "price": "5820",
+        "imgFirst": "/catalog/boards/skate_03_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_03_02.jpeg",
+        "year": 2023,
+        "information": "Resin Hybrid Construction - new 7-layer hybrid decks with two types of wood. The layers are glued together with epoxy glue and some of the veneer layers with Epoxy Resin, which ensures minimal weight of the skateboard. The key advantage of this technology is that the individually pressed decks are distinguished by their durability!",
+        "size": 7.75,
+        "concave": "Full",
+        "sale": ""
+    },
+    {
+        "id": "953507b6-2efe-4bf2-909f-83863e51d132",
+        "name": "Board ZERO THOMAS - SAVE MY SOUL",
+        "price": "7990",
+        "imgFirst": "/catalog/boards/skate_04_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_04_02.jpeg",
+        "year": 2022,
+        "information": "Pro Model: Jamie Thomas 100% Canadian Maple",
+        "size": 8.25,
+        "concave": "Medium",
+        "sale": "15"
+    },
+    {
+        "id": "e36d6985-007d-41be-b894-3be7d91cd53f",
+        "name": "Board FLIP TEAM HKD RED",
+        "price": "6250",
+        "imgFirst": "/catalog/boards/skate_05_01.jpeg",
+        "imgSecond": "/catalog/boards/skate_05_02.jpeg",
+        "year": 2022,
+        "information": "Flip Skateboards is a well-known name in the skateboarding world. Since 1991, the brand has been producing high-quality skateboards, decks, wheels, clothing, and various skateboarding accessories.",
+        "size": 8.13,
+        "concave": "Medium",
+        "sale": "20"
+    }
+  ],
+  "trucks": [
+    {
+        "id": "7b7d592b-a4ff-4556-84dd-c28a258440d0",
+        "name": "BC Flat Black Standard",
+        "price": "3300",
+        "imgFirst": "/catalog/trucks/track_00_01.jpeg",
+        "imgSecond": "/catalog/trucks/track_00_02.jpeg",
+        "year": 2022,
+        "information": "Independent classic! The Independent Stage 11 is a durable and reliable suspension system for any riding style and level! Weight: 139 - 376 g/piece, 144 - 387 g/piece, 149 - 394 g/piece. Height: 55 mm Aluminum A356 T6 Hanger and Base SCM435 Chromoly Axle Steel Kingpin 8",
+        "size": 8.38,
+        "sale": ""
+    },
+    {
+        "id": "6e7e8303-92dd-4f42-ab73-e04780a34247",
+        "name": "INDEPENDENT Stage 11 BTG Speed Burgundy Silver Standard",
+        "price": "3400",
+        "imgFirst": "/catalog/trucks/track_01_01.jpeg",
+        "imgSecond": "/catalog/trucks/track_01_02.jpeg",
+        "year": 2023,
+        "information": "Independent classic! The Independent Stage 11 is a durable and reliable suspension system for any riding style and level! Weight: 139 - 376 g/piece, 144 - 387 g/piece, 149 - 394 g/piece. Height: 55 mm Aluminum A356 T6 Hanger and Base SCM435 Chromoly Axle Steel Kingpin 8",
+        "size": 8.25,
+        "sale": ""
+    },
+    {
+        "id": "04a2c3d4-b276-4af8-b911-08833e26ae62",
+        "name": "THUNDER TRUCKS TRK LT DISORDER",
+        "price": "3360",
+        "imgFirst": "/catalog/trucks/track_02_01.jpeg",
+        "imgSecond": "/catalog/trucks/track_02_02.jpeg",
+        "year": 2022,
+        "information": "Thunder offers the lightweight, durable and agile skateboarding systems the brand is known for. The base, hanger and kingpin are made from lightweight and durable aluminum.",
+        "size": 8.75,
+        "sale": ""
+    },
+    {
+        "id": "1a3b6205-02d4-4be6-89c2-03d32acdce45",
+        "name": "ACE AF1 Purple Satin",
+        "price": "3510",
+        "imgFirst": "/catalog/trucks/track_03_01.jpeg",
+        "imgSecond": "/catalog/trucks/track_03_02.jpeg",
+        "year": 2023,
+        "information": "New model of skateboard suspension ACE AF1. These are the suspensions, thanks to the geometry of which, you will be able to lay the most fierce angles in the radii and be in full pockets in the street. If you haven't ridden Ace yet - it's time to try it!",
+        "size": 8.0,
+        "sale": ""
+    }
+  ],
+  "wheels": [
+    {
+        "id": "3e42af57-de40-4918-a865-6a50be7857e8",
+        "name": "BONES BERGER THE HUNTER",
+        "price": "5250",
+        "imgFirst": "/catalog/wheels/wheels_00_01.jpeg",
+        "imgSecond": "/catalog/wheels/wheels_00_02.jpeg",
+        "year": 2023,
+        "information": "Legendary BONES Street Tech Formula wheels that roll fast, grip when you need them, and glide when you want them to, with no flat spots. STF gives you more control to ride confidently on the street! BONES STF wheels outperform all other wheels, they last several times longer than regular wheels, making STF wheels the best at a lower cost.",
+        "rigidity": "103A",
+        "sale": ""
+    },
+    {
+        "id": "47477fc1-5a89-4a5a-948e-18982273f60b",
+        "name": "SANTA CRUZ Slime Balls OG Slime Purple",
+        "price": "5100",
+        "imgFirst": "/catalog/wheels/wheels_01_01.jpeg",
+        "imgSecond": "/catalog/wheels/wheels_01_02.jpeg",
+        "year": 2023,
+        "information": "Slime Balls Wheels are the creation of Santa Cruz Skateboards. Founded during the heyday of skateboarding in the 80's, Slime Balls offers skaters the chance to stand out from the crowd with the most colorful wheel graphics! These tires for your cruiser are ready to conquer any obstacle! High performance soft 78a urethane for increased flotation.",
+        "rigidity": "78A",
+        "sale": "5"
+    },
+    {
+        "id": "3a7d1fea-57be-4ce5-b4c1-5d9dd2f19aab",
+        "name": "SPITFIRE F4 CONICAL",
+        "price": "4850",
+        "imgFirst": "/catalog/wheels/wheels_02_01.jpeg",
+        "imgSecond": "/catalog/wheels/wheels_02_02.jpeg",
+        "year": 2022,
+        "information": "Spitfire are some of the most famous skate wheels in the world! Spitfire have released a new and improved formula of wheels called the Formula 4. The Formula Fours are very popular and we have had great feedback from everyone who has ridden them! The 99D wheels are on the softer side. They won’t be as fast in the skate park as the Red 101D wheels, but they will ride smoother on the street. They are still a little softer than the Bones STF wheel (103 durometer). These are the more popular of the two Formula 4 wheels. They are hard and fast, don’t flat spot, and still have a decent amount of bounce so they don’t feel plasticky. Another thing to note is that the Spitfire Formula 4 wheels are a cream color rather than the bright white that most wheels are, which is a signature Formula 4 color.",
+        "rigidity": "99D",
+        "sale": ""
+    },
+    {
+        "id": "58f563f7-443d-4ce9-af6f-64da84450deb",
+        "name": "SPITFIRE WHEELS BIGHEAD",
+        "price": "4350",
+        "imgFirst": "/catalog/wheels/wheels_03_01.jpeg",
+        "imgSecond": "/catalog/wheels/wheels_03_02.jpeg",
+        "year": 2023,
+        "information": "Spitfire - one of the most famous skate wheels in the world! Classic Spitfire - these are the classic wheels that everyone knows and loves. Classic has a hardness of 99, which makes it even harder and is perfect for skate parks and street skating.",
+        "rigidity": "99D",
+        "sale": ""
+    }
+  ],
+  "bearings": [
+    {
+        "id": "c09d6bc3-893f-4cf2-9711-5f375d9d3763",
+        "name": "INDEPENDENT Bearings GP-B",
+        "price": "1860",
+        "imgFirst": "/catalog/bearings/bearings_00_01.jpeg",
+        "imgSecond": "/catalog/bearings/bearings_00_02.jpeg",
+        "year": 2023,
+        "information": "High-quality, fast and durable bearings from Independent. These bearings use the most advanced technologies from Independent! Set: 8 bearings, 4 spacers and 8 speedrings (washers) Independent bearings do not have ABEC classification, but this product can be classified as ABEC-7 in terms of manufacturing accuracy New Shell® High-Speed ​​Skating Grease Reinforced separator (ball retainer) Removable dust cover",
+        "sale": ""
+    },
+    {
+        "id": "8e94bcb3-269a-4d13-aa9c-ac4a146f1548",
+        "name": "BONES REDS SUPER 8",
+        "price": "3150",
+        "imgFirst": "/catalog/bearings/bearings_01_01.jpeg",
+        "imgSecond": "/catalog/bearings/bearings_01_02.jpeg",
+        "year": 2023,
+        "information": "BONES REDS SUPER bearings have been designed from the ground up to be the best bearings on the market in their price range. Super REDS are not just REDS bearings with an improved finish (polished surface). Super REDS are the highest quality bearings, using high-quality steel rings, improved balls and a superior surface finish. The result is bearings that are as fast as REDS, but quieter, smoother and hold speed much longer. Super REDS use a black dust cover and laser engraving to easily distinguish them from classic REDS. Set of 8 skate bearings Long-lasting and reliable Removable rubber dust covers for easy cleaning Pre-lubricated with a special grease for high-speed skating",
+        "sale": ""
+    },
+    {
+        "id": "057bfba7-935f-4677-b9c4-e11eb741c243",
+        "name": "BONES CERAMIC SUPER REDS",
+        "price": "8650",
+        "imgFirst": "/catalog/bearings/bearings_02_01.jpeg",
+        "imgSecond": "/catalog/bearings/bearings_02_02.jpeg",
+        "year": 2023,
+        "information": "Bones Ceramic Super Reds bearings with ceramic balls made from the purest silicon nitride. They are lighter and provide more powerful acceleration because the balls weigh much less. They create less friction and therefore are much faster than Super REDS. If dirt gets into these bearings, the ceramic balls will help to re-polish the surface, providing self-healing, because ceramic balls are much stronger than steel. And, finally, ceramic balls do not rust, which extends their life! Set of 8 skateboard bearings Durable and reliable construction Removable dust covers for easier cleaning Grade 5 ceramic High-speed nylon retainer Pre-lubricated with special Speed ​​Cream",
+        "sale": ""
+    },
+    {
+        "id": "ffbb0604-5cc3-4a4e-a1b9-983bfc0e8108",
+        "name": "BRONSON Raw Speed Co",
+        "price": "4110",
+        "imgFirst": "/catalog/bearings/bearings_03_01.jpeg",
+        "imgSecond": "/catalog/bearings/bearings_03_02.jpeg",
+        "year": 2022,
+        "information": "BRONSON SPEED CO - the next generation of bearings - these are very fast, strong, long-spinning bearings for skateboarding!",
+        "sale": ""
+    }
+  ],
+  "skins": [
+    {
+        "id": "851a5427-c61e-4cd1-9e50-ccac3f6c9c47",
+        "name": "TOY MACHINE GRIP STICKER SINGLE PACK",
+        "price": "1100",
+        "imgFirst": "/catalog/skins/skin_00_01.jpeg",
+        "imgSecond": "/catalog/skins/skin_00_02.jpeg",
+        "year": 2023,
+        "information": "Set of 6 pieces of sandpaper. Glue any way you like to your deck. More self-expression! Self-adhesive sandpaper",
+        "sale": ""
+    },
+    {
+        "id": "352a6225-ca05-406d-a542-4a246568bb5c",
+        "name": "WELCOME BLACK LODGE GRIPTAPE BLACK",
+        "price": "1340",
+        "imgFirst": "/catalog/skins/skin_01_01.jpeg",
+        "imgSecond": "/catalog/skins/skin_01_02.jpeg",
+        "year": 2023,
+        "information": "Skateboard sandpaper. Size: 9 x 33",
+        "sale": ""
+    },
+    {
+        "id": "0c7f50eb-5f39-4166-bcc2-1859ef347000",
+        "name": "ENJOI THE ROCK",
+        "price": "1280",
+        "imgFirst": "/catalog/skins/skin_02_01.jpeg",
+        "imgSecond": "/catalog/skins/skin_02_02.jpeg",
+        "year": 2023,
+        "information": "Size: 9 x 33",
+        "sale": ""
+    }
+  ],
+  "screws": [
+    {
+        "id": "bacb1b9f-687a-4d78-b2a3-f027f712618c",
+        "name": "MINI-LOGO AXLE NUT",
+        "price": "60",
+        "imgFirst": "/catalog/screws/screws_00_01.jpeg",
+        "imgSecond": "/catalog/screws/screws_00_02.jpeg",
+        "year": 2024,
+        "information": "Nut for suspension axle Price is for 1 piece.",
+        "sale": ""
+    },
+    {
+        "id": "bb82f224-4db6-4fed-9de8-0564f402310a",
+        "name": "INDEPENDENT Allen Hardware",
+        "price": "200",
+        "imgFirst": "/catalog/screws/screws_01_01.jpeg",
+        "imgSecond": "/catalog/screws/screws_01_02.jpeg",
+        "year": 2024,
+        "information": "Set of screws for hangers. Meet the highest quality standards. Hexagonal screws with self-locking nuts with a nylon ring. Hexagon included Material: 100% steel",
+        "sale": ""
+    },
+    {
+        "id": "86c17a12-4d4b-44c5-a0a6-d6e707df5ff6",
+        "name": "BONES HARDWARE",
+        "price": "350",
+        "imgFirst": "/catalog/screws/screws_02_01.jpeg",
+        "imgSecond": "/catalog/screws/screws_02_02.jpeg",
+        "year": 2024,
+        "information": "Screws for hangers without using washers. Included: 8 pcs. Size: 7/8",
+        "sale": ""
+    }
+  ]
+}]
