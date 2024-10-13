@@ -23,7 +23,7 @@ const currentUrl = ref(false)
         <img
           class="w-[31.25rem] h-[31.25rem] object-cover"
           :src="
-            '/cherry-shop-vue' + !currentUrl ? item.imgFirst : item.imgSecond !== '' ? item.imgSecond : item.imgFirst
+            '/cherry-shop-vue' + (!currentUrl ? item.imgFirst : item.imgSecond !== '' ? item.imgSecond : item.imgFirst)
           "
           :alt="item.name"
         />
