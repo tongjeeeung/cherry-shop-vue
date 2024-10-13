@@ -15,15 +15,15 @@ import { createPinia } from 'pinia'
 import { getToken } from './utils/cookie'
 
 const routes: Array<RouteRecordRaw> = [
-  { path: '/', name: 'Home', component: HomePage },
-  { path: '/catalog', component: CatalogPage },
-  { path: '/cart', component: cartPage },
-  { path: '/registration', component: RegLogPage },
-  { path: '/login', component: RegLogPage },
-  { path: '/profile', component: ProfilePage, meta: { requiresAuth: true } },
+  { path: '/cherry-shop-vue/', name: 'Home', component: HomePage },
+  { path: '/cherry-shop-vue/catalog', component: CatalogPage },
+  { path: '/cherry-shop-vue/cart', component: cartPage },
+  { path: '/cherry-shop-vue/registration', component: RegLogPage },
+  { path: '/cherry-shop-vue/login', component: RegLogPage },
+  { path: '/cherry-shop-vue/profile', component: ProfilePage, meta: { requiresAuth: true } },
 
-  { path: '/catalog/:id/:id', component: ProductPage },
-  { path: '/catalog/:id', component: CatalogPage }
+  { path: '/cherry-shop-vue/catalog/:id/:id', component: ProductPage },
+  { path: '/cherry-shop-vue/catalog/:id', component: CatalogPage }
 ]
 
 const pinia = createPinia()
