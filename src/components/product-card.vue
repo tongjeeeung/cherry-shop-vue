@@ -13,7 +13,7 @@ let mouseOver = ref(false)
   >
     <img
       class="h-60 w-52 object-cover"
-      :src="'/cherry-shop-vue' + mouseOver && item.imgSecond !== '' ? item.imgSecond : item.imgFirst"
+      :src="'/cherry-shop-vue' + (mouseOver && item.imgSecond !== '' ? item.imgSecond : item.imgFirst)"
     />
     <div
       v-if="item.sale !== ''"
