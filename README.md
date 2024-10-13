@@ -2,7 +2,7 @@
 
 Проект можно посмотреть на github-pages: https://tongjeeeung.github.io/cherry-shop-vue/
 
-Стек: Vue, Pinia, HTML, CSS, TS, JS, Vite
+Стек: Vue, Pinia, TailWind, HTML, CSS, TS, JS, Vite
 
 Структура проекта:
 - public/ — исходные файлы проекта
