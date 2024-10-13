@@ -5,7 +5,7 @@
     <h2 class="text-center pb-7 text-5xl">Skateboarding</h2>
     <h3 class="text-center text-2xl">Skate components.</h3>
     <ul class="flex items-center justify-center flex-wrap gap-14 px-5 py-24 text-[#FAEBD7]">
-      <RouterLink to="/catalog/boards">
+      <RouterLink to="/cherry-shop-vue/catalog/boards">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/boards.webp')] bg-center"
         >
@@ -15,7 +15,7 @@
           ></div>
         </li>
       </RouterLink>
-      <RouterLink to="/catalog/trucks">
+      <RouterLink to="/cherry-shop-vue/catalog/trucks">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/trucks.jpeg')] bg-center"
         >
@@ -25,7 +25,7 @@
           ></div>
         </li>
       </RouterLink>
-      <RouterLink to="/catalog/wheels">
+      <RouterLink to="/cherry-shop-vue/catalog/wheels">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/wheels.jpeg')] bg-center"
         >
@@ -35,7 +35,7 @@
           ></div>
         </li>
       </RouterLink>
-      <RouterLink to="/catalog/bearings">
+      <RouterLink to="/cherry-shop-vue/catalog/bearings">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/bearings.jpeg')] bg-center"
         >
@@ -45,7 +45,7 @@
           ></div>
         </li>
       </RouterLink>
-      <RouterLink to="/catalog/skins">
+      <RouterLink to="/cherry-shop-vue/catalog/skins">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/skin.jpeg')] bg-center"
         >
@@ -55,7 +55,7 @@
           ></div>
         </li>
       </RouterLink>
-      <RouterLink to="/catalog/screwsnuts">
+      <RouterLink to="/cherry-shop-vue/catalog/screwsnuts">
         <li
           class="card min-h-64 min-w-[35rem] z-[1] relative flex duration-300 transition-all ease-in-out items-center justify-center bg-[length:90%] bg-[url('/home/screws.jpeg')] bg-center"
         >

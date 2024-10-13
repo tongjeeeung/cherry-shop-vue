@@ -51,12 +51,12 @@ function handleIsSearch() {
   >
     <img class="h-16 w-16" src="/home/logo.png" @click="toggleThreme" />
     <ul class="flex gap-12 justify-around items-center">
-      <RouterLink to="/">
+      <RouterLink to="/cherry-shop-vue/">
         <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
           Home
         </li>
       </RouterLink>
-      <RouterLink to="/catalog">
+      <RouterLink to="/cherry-shop-vue/catalog">
         <li
           class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent relative"
           @mouseenter="showMenu"
@@ -72,12 +72,12 @@ function handleIsSearch() {
       >
         Search
       </li>
-      <RouterLink to="/cart">
+      <RouterLink to="/cherry-shop-vue/cart">
         <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
           {{ `Cart [${dataStore.cart.length}]` }}
         </li>
       </RouterLink>
-      <RouterLink to="/profile">
+      <RouterLink to="/cherry-shop-vue/profile">
         <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
           Profile
         </li>
@@ -91,34 +91,34 @@ function handleIsSearch() {
     >
       <div class="flex flex-row-reverse gap-20 mr-[7.6rem]">
         <ul>
-          <RouterLink to="/catalog/bearings">
+          <RouterLink to="/cherry-shop-vue/catalog/bearings">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Bearing
             </li>
           </RouterLink>
-          <RouterLink to="/catalog/skins">
+          <RouterLink to="/cherry-shop-vue/catalog/skins">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Skins
             </li>
           </RouterLink>
-          <RouterLink to="/catalog/screwsnuts">
+          <RouterLink to="/cherry-shop-vue/catalog/screwsnuts">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Screws and nuts
             </li>
           </RouterLink>
         </ul>
         <ul>
-          <RouterLink to="/catalog/boards">
+          <RouterLink to="/cherry-shop-vue/catalog/boards">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Boards
             </li>
           </RouterLink>
-          <RouterLink to="/catalog/trucks">
+          <RouterLink to="/cherry-shop-vue/catalog/trucks">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Trucks
             </li>
           </RouterLink>
-          <RouterLink to="/catalog/wheels">
+          <RouterLink to="/cherry-shop-vue/catalog/wheels">
             <li class="cursor-pointer duration-300 transition-all ease-in-out hover:text-accent">
               Wheels
             </li>

@@ -20,12 +20,12 @@ const handleSumbitFunction = (data) => {
 
 const handleLogout = () => {
   dataStore.logoutUser()
-  useRouter.push('/')
+  useRouter.push('/cherry-shop-vue/')
 }
 
 const handleDelete = (id) => {
   dataStore.deleteUser(id)
-  useRouter.push('/')
+  useRouter.push('/cherry-shop-vue/')
 }
 </script>
 

@@ -26,7 +26,7 @@ const handleSubmitFunction = (data) => {
 
 const handleChangePath = () => {
   if (path.value === 'registration') {
-    router.push('/login')
+    router.push('/cherry-shop-vue/login')
   } else {
     router.push('/registration')
   }

@@ -23,7 +23,7 @@ const currentUrl = ref(false)
         <img
           class="w-[31.25rem] h-[31.25rem] object-cover"
           :src="
-            !currentUrl ? item.imgFirst : item.imgSecond !== '' ? item.imgSecond : item.imgFirst
+            '/cherry-shop-vue' + !currentUrl ? item.imgFirst : item.imgSecond !== '' ? item.imgSecond : item.imgFirst
           "
           :alt="item.name"
         />
@@ -31,14 +31,14 @@ const currentUrl = ref(false)
           <li class="w-20 h-20" @click="currentUrl = false">
             <img
               class="hover:opacity-50 duration-300 transition-all ease-in-out object-cover w-full h-full"
-              :src="item.imgFirst"
+              :src="'/cherry-shop-vue' + item.imgFirst"
               :alt="item.name"
             />
           </li>
           <li class="w-20 h-20" @click="currentUrl = true" v-if="item.imgSecond !== ''">
             <img
               class="hover:opacity-50 duration-300 transition-all ease-in-out object-cover w-full h-full"
-              :src="item.imgSecond"
+              :src="'/cherry-shop-vue' + item.imgSecond"
               :alt="item.name"
             />
           </li>

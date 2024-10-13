@@ -119,9 +119,9 @@ const handleSubmit = () => {
         class="flex justify-between items-center py-5 px-12 border-solid border-textcl border hover:animate-shadow hover:border-accent duration-300 transition-all ease-in-out"
       >
         <div class="flex gap-5 items-center">
-          <img class="object-cover w-40 h-40" :src="item.imgFirst" />
+          <img class="object-cover w-40 h-40" :src="'/cherry-shop-vue' + item.imgFirst" />
           <div class="flex flex-col gap-8 max-w-56">
-            <RouterLink :to="{ path: `/catalog/${item.category}/${item.id}` }">
+            <RouterLink :to="{ path: `/cherry-shop-vue/catalog/${item.category}/${item.id}` }">
               <h2
                 class="uppercase text-xl font-bold hover:text-accent duration-300 transition-all ease-in-out cursor-pointer"
               >

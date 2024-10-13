@@ -23,7 +23,7 @@ const handleBrand = (brandName) => {
   const { brand, category, ...rest } = dataStore.filter
   const newFilter = { ...rest, brand: brandName, category: undefined }
   dataStore.changeFilter(newFilter)
-  router.push('/catalog')
+  router.push('/cherry-shop-vue/catalog')
 }
 </script>
 

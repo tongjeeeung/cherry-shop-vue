@@ -20,7 +20,7 @@ function getRandomItems(arr, num) {
     <ul class="flex gap-3 overflow-x-scroll py-5 h-[28rem]" v-auto-animate>
       <RouterLink
         class="min-w-[208px]"
-        :to="{ path: `/catalog/${item.category}/${item.id}` }"
+        :to="{ path: `/cherry-shop-vue/catalog/${item.category}/${item.id}` }"
         v-for="item in recProducts"
         :key="item.id"
       >

@@ -71,7 +71,7 @@ const handleItemClick = (value, id, category, brand) => {
   props.handleIsSearch()
   brand ? props.filterBrand(brand) : ''
 
-  value ? router.push(`/catalog/${category}/${id}`) : router.push(`/catalog`)
+  value ? router.push(`/cherry-shop-vue/catalog/${category}/${id}`) : router.push(`/cherry-shop-vue/catalog`)
 }
 </script>
 
@@ -98,7 +98,7 @@ const handleItemClick = (value, id, category, brand) => {
         ></div>
         <img
           class="absolute top-0 left-0 w-full h-full object-cover z-[-2]"
-          :src="item.img"
+          :src="'/cherry-shop-vue' + item.img"
           v-if="item.img"
         />
         <span class="uppercase">{{ item.name ? item.name : item.brand }}</span>

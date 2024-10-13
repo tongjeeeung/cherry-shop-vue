@@ -22,7 +22,7 @@ defineProps({
       v-if="items.length > 0"
     >
       <RouterLink
-        :to="{ path: `/catalog/${item.category}/${item.id}` }"
+        :to="{ path: `/cherry-shop-vue/catalog/${item.category}/${item.id}` }"
         v-for="item in items.length > 15 ? items.slice(sliceNum, sliceNum + 15) : items"
         :key="item.id"
       >
