@@ -11,14 +11,14 @@
     "type-check": "vue-tsc --build --force",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
     "format": "prettier --write src/",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "vite build && vite gh-pages"
   },
   "dependencies": {
     "@formkit/auto-animate": "^0.8.2",
     "axios": "^1.7.7",
     "pinia": "^2.2.2",
     "uuid": "^10.0.0",
+    "vite-plugin-gh-pages": "^1.0.0",
     "vue": "^3.4.29",
     "vue-router": "^4.4.5"
   },
