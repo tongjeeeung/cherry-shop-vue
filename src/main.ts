@@ -37,14 +37,14 @@ router.beforeEach((to, from, next) => {
   const isAuthenticated = getToken()
 
   if (isAuthenticated) {
-    if (to.path === '/login' || to.path === '/registration') {
-      next({ path: '/' })
+    if (to.path === '/cherry-shop-vue/login' || to.path === '/cherry-shop-vue/registration') {
+      next({ path: '/cherry-shop-vue/' })
     } else {
       next()
     }
   } else {
     if (to.matched.some((record) => record.meta.requiresAuth)) {
-      next({ path: '/login' })
+      next({ path: '/cherry-shop-vue/login' })
     } else {
       next()
     }
