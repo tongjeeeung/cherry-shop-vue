@@ -273,10 +273,10 @@ const handleSubmit = () => {
     </form>
   </section>
 
-  <section v-else class="p-24 flex flex-col items-center">
+  <section v-else class="p-24 flex flex-col items-center min-h-[100vh]">
     <h1 class="uppercase text-2xl mb-2">the сart is empty</h1>
     <h2 class="text-xl mb-8">You can view the products on the main page or in the catalog</h2>
-    <RouterLink to="/">
+    <RouterLink to="/cherry-shop-vue/">
       <button
         class="border-solid border p-2 w-32 cursor-pointer duration-300 transition-all ease-in-out hover:border-accent"
       >

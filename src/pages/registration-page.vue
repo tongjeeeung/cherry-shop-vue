@@ -7,12 +7,12 @@ import { useRouter, useRoute } from 'vue-router'
 const router = useRouter()
 const route = useRoute()
 const dataStore = useDataStore()
-const path = ref(route.path.replace(/\//g, ''))
+const path = ref(route.path.replace(/\/cherry-shop-vue\//g, ''))
 
 watch(
   () => route.path,
   (newPath) => {
-    path.value = newPath.replace(/\//g, '')
+    path.value = newPath.replace(/\/cherry-shop-vue\//g, '')
   }
 )
 
@@ -28,7 +28,7 @@ const handleChangePath = () => {
   if (path.value === 'registration') {
     router.push('/cherry-shop-vue/login')
   } else {
-    router.push('/registration')
+    router.push('/cherry-shop-vue/registration')
   }
 }
 </script>

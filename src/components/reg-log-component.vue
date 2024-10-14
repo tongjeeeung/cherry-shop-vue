@@ -73,7 +73,7 @@ const handleSubmit = () => {
 </script>
 
 <template>
-  <section class="px-24 pb-24 pt-8">
+  <section class="px-24 pb-24 pt-8 min-h-[100vh]">
     <h1 class="text-center text-5xl font-[Christmas]">
       {{ path[0].toUpperCase() + path.slice(1) }}
     </h1>
